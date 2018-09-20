@@ -1,3 +1,8 @@
+
+#1. fyrri var auðveldari því ég byrjaði á því og gerði bara hlutina nákvæmlega eins og ég hugsaði.
+#2. seinni er lesanlegri því það meikar allt meira sense ( brotið upp)
+#3. við leystum það að koma kóðanum yfir í lesanlegra form.
+#https://github.com/eirikuratli/tileTraveller/blob/master/filetraveller2.py
 option1='(N)orth'
 option2='(S)outh'
 option3='(E)ast'
