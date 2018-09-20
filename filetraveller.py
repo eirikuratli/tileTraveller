@@ -1,5 +1,4 @@
 
-array=[1.1,1.2,1.3,2.1,2.2,2.3,3.1,3.2,3.3]
 option1='(N)orth'
 option2='(S)outh'
 option3='(E)ast'
